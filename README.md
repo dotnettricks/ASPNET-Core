@@ -1,5 +1,5 @@
 # ASP.NET Core Learning Path Source Code
-ASP.NET Core is a cross-platform, high-performance, open-source framework for building modern, cloud-based, Internet-connected applications. This repository is containing the source code for articles which are the part of ASP.NET Core learning path.
+ASP.NET Core is a cross-platform, high-performance, open-source framework for building modern, cloud-based, Internet-connected applications. This repository is containing the source code for articles which are the part of Dot Net Tricks ASP.NET Core learning path.
 
 1. Beginner
 2. Intermediate
